@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restaurant on Julia Ghozland-Guibert</title>
+    <link>https://j2g-design.github.io/tags/restaurant/</link>
+    <description>Recent content in Restaurant on Julia Ghozland-Guibert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <managingEditor>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</managingEditor>
+    <webMaster>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</webMaster>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://j2g-design.github.io/tags/restaurant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Création d’un restaurant</title>
+      <link>https://j2g-design.github.io/business/creation-restaurant/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
+      <guid>https://j2g-design.github.io/business/creation-restaurant/</guid>
+      <description>                 Création d’un restaurant de poissons et d’une poissonnerie attenante à partir d’un garage.
+Consultation de toutes les normes en vigueur et notamment sur la sécurité incendie, sur les règles d’hygiène et sur les établissements recevant du public.
+Consultation du Plan Local d’Urbanisme et conception des documents pour présenter le projet en mairie.
+                            </description>
+    </item>
+    
+  </channel>
+</rss>

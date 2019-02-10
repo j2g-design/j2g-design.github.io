@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atelier on Julia Ghozland-Guibert</title>
+    <link>https://j2g-design.github.io/tags/atelier/</link>
+    <description>Recent content in Atelier on Julia Ghozland-Guibert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <managingEditor>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</managingEditor>
+    <webMaster>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</webMaster>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://j2g-design.github.io/tags/atelier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atelier Rrose Selavy</title>
+      <link>https://j2g-design.github.io/business/atelier-rrose-selavy/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
+      <guid>https://j2g-design.github.io/business/atelier-rrose-selavy/</guid>
+      <description>               Rénovation d’une partie de l’atelier et notamment le 1er étage qui accueille parfois des soirées privées.
+Il a fallu faire un reportage photos ainsi que des plans 3D avec identification des surfaces en fonction des ateliers.
+                            </description>
+    </item>
+    
+  </channel>
+</rss>
