@@ -1,249 +1,179 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://j2g-design.github.io/individual/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://j2g-design.github.io/business/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://j2g-design.github.io/study/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://j2g-design.github.io/study/amenagement-de-combles-a-puteaux/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://j2g-design.github.io/individual/appartement-suresnes/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/business/atelier-rrose-selavy/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/business/creche-fleur-des-champs/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/business/creation-restaurant/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/individual/creation-dune-cuisine-americaine/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/individual/cuisine-equipee-a-rueil-malmaison/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/business/residence-hotel-puteaux/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/business/forum-point-p/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/study/rehabilitation-appartement-16eme/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/individual/renovation-residence-secondaire/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/study/renovation-appartement-haussmannien-dans-le-16eme/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/individual/renovation-2pieces-haussmanienn/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/individual/renovation-a-neuilly-ile-de-la-jatte/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/individual/salle-de-bain-paris-17/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/individual/studio-parisien/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/appartement/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/atelier/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://j2g-design.github.io/categories/</loc>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/business/atelier-rrose-selavy/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/combles/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/commerce/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/creche/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/business/creche-fleur-des-champs/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/business/creation-restaurant/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/individual/creation-dune-cuisine-americaine/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/individual/cuisine-equipee-a-rueil-malmaison/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/business/residence-hotel-puteaux/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/cuisine/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/etudes/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/hotel/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/business/forum-point-p/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/logements/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/rehabilitation/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/renovation/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/restaurant/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/study/rehabilitation-appartement-16eme/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/study/renovation-appartement-haussmannien-dans-le-16eme/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/individual/renovation-2pieces-haussmanienn/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/individual/renovation-residence-secondaire/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/individual/renovation-a-neuilly-ile-de-la-jatte/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/salle-de-bain/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/individual/salle-de-bain-paris-17/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/individual/studio-parisien/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://j2g-design.github.io/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://j2g-design.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
-  
 </urlset>
