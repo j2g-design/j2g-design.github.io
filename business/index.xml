@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets Commerciaux on Julia Ghozland-Guibert</title>
@@ -8,18 +8,14 @@
     <language>fr-fr</language>
     <managingEditor>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</managingEditor>
     <webMaster>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</webMaster>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://j2g-design.github.io/business/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://j2g-design.github.io/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atelier Rrose Selavy</title>
       <link>https://j2g-design.github.io/business/atelier-rrose-selavy/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/atelier-rrose-selavy/</guid>
-      <description>               Rénovation d’une partie de l’atelier et notamment le 1er étage qui accueille parfois des soirées privées.
+      <description>                Rénovation d’une partie de l’atelier et notamment le 1er étage qui accueille parfois des soirées privées.
 Il a fallu faire un reportage photos ainsi que des plans 3D avec identification des surfaces en fonction des ateliers.
                             </description>
     </item>
@@ -30,7 +26,7 @@ Il a fallu faire un reportage photos ainsi que des plans 3D avec identification 
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/creche-fleur-des-champs/</guid>
-      <description>             Le cahier des charges était de créer une crèche à partir d’un local vide.
+      <description>              Le cahier des charges était de créer une crèche à partir d’un local vide.
 Ce projet s’est réalisé en partenariat avec People &amp;amp; Baby qui assurait la conception des plans et J2G Design s’est occupé du chantier et des matériaux qui devaient être aux normes pour la crèche.
                             </description>
     </item>
@@ -41,10 +37,9 @@ Ce projet s’est réalisé en partenariat avec People &amp;amp; Baby qui assura
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/creation-restaurant/</guid>
-      <description>                 Création d’un restaurant de poissons et d’une poissonnerie attenante à partir d’un garage.
+      <description>Création d’un restaurant de poissons et d’une poissonnerie attenante à partir d’un garage.
 Consultation de toutes les normes en vigueur et notamment sur la sécurité incendie, sur les règles d’hygiène et sur les établissements recevant du public.
-Consultation du Plan Local d’Urbanisme et conception des documents pour présenter le projet en mairie.
-                            </description>
+Consultation du Plan Local d’Urbanisme et conception des documents pour présenter le projet en mairie.</description>
     </item>
     
     <item>
@@ -65,7 +60,7 @@ Cet établissement présentera à la location des appartements entièrement meub
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/forum-point-p/</guid>
-      <description>                     Transformation d’un garage en espace d’exposition de matériaux et de salles de bain pour le groupe Point P.
+      <description>                      Transformation d’un garage en espace d’exposition de matériaux et de salles de bain pour le groupe Point P.
 C’est un lieu d’exposition unique en plein de centre de Paris avec un grand choix de marques et de matériaux pour les particuliers qui veulent rénover leur intérieur.
                             </description>
     </item>

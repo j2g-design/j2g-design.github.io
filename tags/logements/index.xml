@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logements on Julia Ghozland-Guibert</title>
@@ -8,11 +8,7 @@
     <language>fr-fr</language>
     <managingEditor>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</managingEditor>
     <webMaster>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</webMaster>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
-    
-	<atom:link href="https://j2g-design.github.io/tags/logements/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://j2g-design.github.io/tags/logements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aménagement d’un appartement neuf à Suresnes</title>
       <link>https://j2g-design.github.io/individual/appartement-suresnes/</link>
@@ -47,17 +43,6 @@ Les propriétaires ont choisi une cuisine Ikea rouge avec de grands plans de tra
     </item>
     
     <item>
-      <title>Rénovation Résidence secondaire</title>
-      <link>https://j2g-design.github.io/individual/renovation-residence-secondaire/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
-      <guid>https://j2g-design.github.io/individual/renovation-residence-secondaire/</guid>
-      <description>Ce projet est la réhabilitation complète d’un appartement de vacances ayant pour objectif de redonner un peu de clarté en décloisonnant les espaces.
-Tous les murs qui restaient ont été doublés, les fenêtres ont été changées et des radiateurs à économie d’énergie ont été installés.
-La grande salle de bain avec toilette et le wc indépendant ont laissé place à une salle de bain et une salle de douche pour accueillir 4&amp;frasl;5 personnes.</description>
-    </item>
-    
-    <item>
       <title>Rénovation d’un 2 pièces haussmanienn</title>
       <link>https://j2g-design.github.io/individual/renovation-2pieces-haussmanienn/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
@@ -66,6 +51,17 @@ La grande salle de bain avec toilette et le wc indépendant ont laissé place à
       <description>Le cahier des charges était d’ouvrir les volumes au maximum pour faire rentrer la lumière.
 Pour la rénovation de cet appartement, nous avons démoli complètement la cuisine, la salle de bain et les toilettes.
 Le mur qui séparait la cuisine du séjour et celui qui séparait le couloir de la cuisine ont été abattus afin d’ouvrir la perspective et faire ainsi rentrer la lumière au maximum.</description>
+    </item>
+    
+    <item>
+      <title>Rénovation Résidence secondaire</title>
+      <link>https://j2g-design.github.io/individual/renovation-residence-secondaire/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
+      <guid>https://j2g-design.github.io/individual/renovation-residence-secondaire/</guid>
+      <description>Ce projet est la réhabilitation complète d’un appartement de vacances ayant pour objectif de redonner un peu de clarté en décloisonnant les espaces.
+Tous les murs qui restaient ont été doublés, les fenêtres ont été changées et des radiateurs à économie d’énergie ont été installés.
+La grande salle de bain avec toilette et le wc indépendant ont laissé place à une salle de bain et une salle de douche pour accueillir 4/5 personnes.</description>
     </item>
     
     <item>
@@ -85,10 +81,9 @@ Tous les sols ont été changés et remplacés par du parquet dans les pièces �
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/individual/salle-de-bain-paris-17/</guid>
-      <description>             Le cahier des charges était de transformer la salle de bain désuète en une salle de bain moderne et fonctionnelle.
+      <description>Le cahier des charges était de transformer la salle de bain désuète en une salle de bain moderne et fonctionnelle.
 Tous les éléments de la salle de bain ont minutieusement été choisis, le meuble vasque a été créé sur mesure.
-La calepinage du carrelage a soigneusement été dessiné préalablement pour avoir la validation de la cliente.
-                            </description>
+La calepinage du carrelage a soigneusement été dessiné préalablement pour avoir la validation de la cliente.</description>
     </item>
     
     <item>

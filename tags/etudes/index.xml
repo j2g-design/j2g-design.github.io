@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Etudes on Julia Ghozland-Guibert</title>
+    <title>etudes on Julia Ghozland-Guibert</title>
     <link>https://j2g-design.github.io/tags/etudes/</link>
-    <description>Recent content in Etudes on Julia Ghozland-Guibert</description>
+    <description>Recent content in etudes on Julia Ghozland-Guibert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <managingEditor>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</managingEditor>
     <webMaster>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</webMaster>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
-    
-	<atom:link href="https://j2g-design.github.io/tags/etudes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://j2g-design.github.io/tags/etudes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aménagement de combles à Puteaux</title>
       <link>https://j2g-design.github.io/study/amenagement-de-combles-a-puteaux/</link>

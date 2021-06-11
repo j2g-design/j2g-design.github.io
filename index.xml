@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecte on Julia Ghozland-Guibert</title>
@@ -8,11 +8,7 @@
     <language>fr-fr</language>
     <managingEditor>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</managingEditor>
     <webMaster>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</webMaster>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
-    
-	<atom:link href="https://j2g-design.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://j2g-design.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aménagement de combles à Puteaux</title>
       <link>https://j2g-design.github.io/study/amenagement-de-combles-a-puteaux/</link>
@@ -41,7 +37,7 @@ Les propriétaires ont voulu décloisonner les espaces et récupérer les mètre
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/atelier-rrose-selavy/</guid>
-      <description>               Rénovation d’une partie de l’atelier et notamment le 1er étage qui accueille parfois des soirées privées.
+      <description>                Rénovation d’une partie de l’atelier et notamment le 1er étage qui accueille parfois des soirées privées.
 Il a fallu faire un reportage photos ainsi que des plans 3D avec identification des surfaces en fonction des ateliers.
                             </description>
     </item>
@@ -52,7 +48,7 @@ Il a fallu faire un reportage photos ainsi que des plans 3D avec identification 
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/creche-fleur-des-champs/</guid>
-      <description>             Le cahier des charges était de créer une crèche à partir d’un local vide.
+      <description>              Le cahier des charges était de créer une crèche à partir d’un local vide.
 Ce projet s’est réalisé en partenariat avec People &amp;amp; Baby qui assurait la conception des plans et J2G Design s’est occupé du chantier et des matériaux qui devaient être aux normes pour la crèche.
                             </description>
     </item>
@@ -63,10 +59,9 @@ Ce projet s’est réalisé en partenariat avec People &amp;amp; Baby qui assura
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/creation-restaurant/</guid>
-      <description>                 Création d’un restaurant de poissons et d’une poissonnerie attenante à partir d’un garage.
+      <description>Création d’un restaurant de poissons et d’une poissonnerie attenante à partir d’un garage.
 Consultation de toutes les normes en vigueur et notamment sur la sécurité incendie, sur les règles d’hygiène et sur les établissements recevant du public.
-Consultation du Plan Local d’Urbanisme et conception des documents pour présenter le projet en mairie.
-                            </description>
+Consultation du Plan Local d’Urbanisme et conception des documents pour présenter le projet en mairie.</description>
     </item>
     
     <item>
@@ -110,7 +105,7 @@ Cet établissement présentera à la location des appartements entièrement meub
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/forum-point-p/</guid>
-      <description>                     Transformation d’un garage en espace d’exposition de matériaux et de salles de bain pour le groupe Point P.
+      <description>                      Transformation d’un garage en espace d’exposition de matériaux et de salles de bain pour le groupe Point P.
 C’est un lieu d’exposition unique en plein de centre de Paris avec un grand choix de marques et de matériaux pour les particuliers qui veulent rénover leur intérieur.
                             </description>
     </item>
@@ -125,17 +120,6 @@ C’est un lieu d’exposition unique en plein de centre de Paris avec un grand 
 Les propriétaires m’ont demandé une étude de projet pour avoir une idée de ce que cela pouvait donner après réalisation.
 J’ai donc changé la disposition de la cuisine pour en faire une cuisine plus fonctionnelle bénéficiant de la luminosité du salon.
 J’ai aussi changé l’entrée de la salle de bain afin de faire une suite parentale.</description>
-    </item>
-    
-    <item>
-      <title>Rénovation Résidence secondaire</title>
-      <link>https://j2g-design.github.io/individual/renovation-residence-secondaire/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
-      <guid>https://j2g-design.github.io/individual/renovation-residence-secondaire/</guid>
-      <description>Ce projet est la réhabilitation complète d’un appartement de vacances ayant pour objectif de redonner un peu de clarté en décloisonnant les espaces.
-Tous les murs qui restaient ont été doublés, les fenêtres ont été changées et des radiateurs à économie d’énergie ont été installés.
-La grande salle de bain avec toilette et le wc indépendant ont laissé place à une salle de bain et une salle de douche pour accueillir 4&amp;frasl;5 personnes.</description>
     </item>
     
     <item>
@@ -161,6 +145,17 @@ Le mur qui séparait la cuisine du séjour et celui qui séparait le couloir de 
     </item>
     
     <item>
+      <title>Rénovation Résidence secondaire</title>
+      <link>https://j2g-design.github.io/individual/renovation-residence-secondaire/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
+      <guid>https://j2g-design.github.io/individual/renovation-residence-secondaire/</guid>
+      <description>Ce projet est la réhabilitation complète d’un appartement de vacances ayant pour objectif de redonner un peu de clarté en décloisonnant les espaces.
+Tous les murs qui restaient ont été doublés, les fenêtres ont été changées et des radiateurs à économie d’énergie ont été installés.
+La grande salle de bain avec toilette et le wc indépendant ont laissé place à une salle de bain et une salle de douche pour accueillir 4/5 personnes.</description>
+    </item>
+    
+    <item>
       <title>Rénovation à Neuilly – Ile de la Jatte</title>
       <link>https://j2g-design.github.io/individual/renovation-a-neuilly-ile-de-la-jatte/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
@@ -177,10 +172,9 @@ Tous les sols ont été changés et remplacés par du parquet dans les pièces �
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/individual/salle-de-bain-paris-17/</guid>
-      <description>             Le cahier des charges était de transformer la salle de bain désuète en une salle de bain moderne et fonctionnelle.
+      <description>Le cahier des charges était de transformer la salle de bain désuète en une salle de bain moderne et fonctionnelle.
 Tous les éléments de la salle de bain ont minutieusement été choisis, le meuble vasque a été créé sur mesure.
-La calepinage du carrelage a soigneusement été dessiné préalablement pour avoir la validation de la cliente.
-                            </description>
+La calepinage du carrelage a soigneusement été dessiné préalablement pour avoir la validation de la cliente.</description>
     </item>
     
     <item>

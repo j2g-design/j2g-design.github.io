@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creche on Julia Ghozland-Guibert</title>
@@ -8,18 +8,14 @@
     <language>fr-fr</language>
     <managingEditor>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</managingEditor>
     <webMaster>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</webMaster>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
-    
-	<atom:link href="https://j2g-design.github.io/tags/creche/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://j2g-design.github.io/tags/creche/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crèche Fleurs des Champs</title>
       <link>https://j2g-design.github.io/business/creche-fleur-des-champs/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <author>julia.ghozland@gmail.com (Julia Ghozland-Guibert)</author>
       <guid>https://j2g-design.github.io/business/creche-fleur-des-champs/</guid>
-      <description>             Le cahier des charges était de créer une crèche à partir d’un local vide.
+      <description>              Le cahier des charges était de créer une crèche à partir d’un local vide.
 Ce projet s’est réalisé en partenariat avec People &amp;amp; Baby qui assurait la conception des plans et J2G Design s’est occupé du chantier et des matériaux qui devaient être aux normes pour la crèche.
                             </description>
     </item>
